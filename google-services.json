@@ -1,0 +1,86 @@
+{
+  "project_info": {
+    "project_number": "182911276500",
+    "firebase_url": "https://attendease-159c8.firebaseio.com",
+    "project_id": "attendease-159c8",
+    "storage_bucket": "attendease-159c8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:182911276500:android:c15f46e7f9f4e147",
+        "android_client_info": {
+          "package_name": "com.example.hafizg.attendeasestudent"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "182911276500-hdtrrpjkt1pqjt5tjg05e99m62h73s2b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9p-5Srkt3xfZcnDSmk6SEhDCPjYTyO9A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:182911276500:android:b93d9affa8e84c9b",
+        "android_client_info": {
+          "package_name": "com.example.hhs.attendance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "182911276500-i3aqvspid1lkr267613i97q4g58o30vu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hhs.attendance",
+            "certificate_hash": "543fe34c57b266239d25b239b5d1ebf982869df8"
+          }
+        },
+        {
+          "client_id": "182911276500-hdtrrpjkt1pqjt5tjg05e99m62h73s2b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9p-5Srkt3xfZcnDSmk6SEhDCPjYTyO9A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "182911276500-hdtrrpjkt1pqjt5tjg05e99m62h73s2b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
